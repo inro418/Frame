@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18518" started-at="2020-03-26T19:17:53Z" finished-at="2020-03-26T19:18:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18518" started-at="2020-03-26T19:17:53Z" finished-at="2020-03-26T19:18:12Z">
+      <class name="tests.FrameTest">
+        <test-method status="PASS" signature="DraggedAndDropped()[pri:0, instance:tests.FrameTest@36d4b5c]" name="DraggedAndDropped" duration-ms="18471" started-at="2020-03-26T19:17:53Z" finished-at="2020-03-26T19:18:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DraggedAndDropped -->
+      </class> <!-- tests.FrameTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
